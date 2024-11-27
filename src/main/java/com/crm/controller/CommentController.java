@@ -19,6 +19,8 @@ public class CommentController {
         System.out.println("10000");
         System.out.println("20000");
         System.out.println("20000");
+        System.out.println("20000");
+        System.out.println("20000");
 
     }
 
